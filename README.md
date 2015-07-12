@@ -10,3 +10,4 @@ These projects would be simulated and tested on Terasic's DE0-nano development b
 
 * Ensure each project is working + tidy up code.
 * Include write-ups + images on each simulated device.
+* Include config files(?) for Quartus II simulation and device useage.
