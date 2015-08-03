@@ -15,7 +15,7 @@ These projects would be simulated and tested on Terasic's DE0-nano development b
   * Combining two of these devices grants us the use of 8 input switches, half of which will control the tens digit, the other half controlling the ones digit, granting the user a range of number from 0-99 to use.  Once the input value is set, the output will display a binary representation of the input.
 
 * **"ClockCounter.vhd"**
-  * This project makes use of the DE0-nano processor clock in order to count on it's own from 0-9, displaying each digit on either an L.E.D. array or a seven-segment display.  While this project was meant to be an exercise in the use of VHDL's "when others" statement, the most difficult snag to overcome was programming the processor clock to run at a slow enough pace that the count could be readable by human eyes...
+  * This project makes use of the DE0-nano processor clock in order to count on it's own from 0-9, displaying each digit on either an L.E.D. array (in binary format) or a seven-segment display.  While this project was meant to be an exercise in the use of VHDL's "when others" statement, the most difficult snag to overcome was programming the processor clock to run at a slow enough pace that the count could be readable by human eyes...
 
 * **"DFlipFlop.vhd"**
   * 
