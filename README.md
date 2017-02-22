@@ -25,7 +25,6 @@ These projects would be simulated and tested on Terasic's DE0-nano development b
   
 ### //TODO
 
-* **GET GUD AT MARKDOWN**
 * Ensure each project is working + tidy up code.
 * Include write-ups + images on each simulated device.
   * Resize Images for README
